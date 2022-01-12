@@ -1,0 +1,7 @@
+samples: "samples.txt"
+
+params:
+  trim_low_abund:
+    C: 3
+    Z: 18
+    M: 2e9
