@@ -5,3 +5,5 @@ params:
     C: 3
     Z: 18
     M: 2e9
+  classify:
+    db: "test_data/db/gtdb-rs202.genomic-reps.k31.lca.json"
