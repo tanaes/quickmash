@@ -1,4 +1,4 @@
 channels:
   - bioconda
 dependencies:
-  - sourmash
+  - sourmash==4.2.3
